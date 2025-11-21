@@ -3,7 +3,10 @@
 
 **DISCLAIMER: I/we DO NOT claim any rights over the video obtained by running inference on an OFFICIAL BundeSliga Football Match. We simply use it for Hackathon / Learning purposes and nothing else. Please contact adityaladwa11@gmail.com in case of any issue.**
 
-# Output Inference Preview
+
+## Data set, trained model .pt files, problem statement, inference output, imgs data are in this google drive file: **https://drive.google.com/drive/folders/1nffUXhxrSZRYhxfjrMXDjRzJDQPFf39a?usp=sharing**
+
+## Output Inference Preview
 
 ![Inference Preview](output_vid3.gif)
 
