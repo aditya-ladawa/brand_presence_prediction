@@ -1,0 +1,48 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+myenv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Large files
+all_models/
+all_models/model_v0.1/
+all_models/model_v0.1.zip
+
+all_models/medium_model.zip
+all_models/medium_model/
+
+all_models/large_model/
+all_models/large_model.zip
+
+input_video.mp4
+
+latest_data/data72_final/
+
+output_video2.mp4
+latest_data
