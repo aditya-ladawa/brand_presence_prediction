@@ -3,8 +3,8 @@
 # Output inference
 
 <video controls width="640">
-  <source src="https://raw.githubusercontent.com/aditya-ladawa/brand_presence_prediction/main/output_video2.mp4" type="video/mp4" />
-  Your browser does not support embedded videos. Download `output_video2.mp4` to view it locally.
+  <source src="https://raw.githubusercontent.com/aditya-ladawa/brand_presence_prediction/main/output_vid3.mp4" type="video/mp4" />
+  Your browser does not support embedded videos. Download `output_vid3.mp4` to view it locally.
 </video>
 
 # Brand names:
