@@ -3,12 +3,11 @@
 
 **DISCLAIMER: I/we DO NOT claim any rights over the video obtained by running inference on an OFFICIAL BundeSliga Football Match. We simply use it for Hackathon / Learning purposes and nothing else. Please contact adityaladwa11@gmail.com in case of any issue.**
 
-# Output inference
+# Output Inference Preview
 
-<video controls width="640">
-  <source src="https://raw.githubusercontent.com/aditya-ladawa/brand_presence_prediction/main/output_vid3.mp4" type="video/mp4" />
-  Your browser does not support embedded videos. Download `output_vid3.mp4` to view it locally.
-</video>
+![Inference Preview](output_vid3.gif)
+
+[▶️ Full MP4 Video](https://raw.githubusercontent.com/aditya-ladawa/brand_presence_prediction/main/output_vid3.mp4)
 
 # Brand names:
 ```
