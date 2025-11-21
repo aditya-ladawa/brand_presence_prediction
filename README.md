@@ -1,5 +1,8 @@
 # Finetuned YOLO v11L on custom annotated dataset with 71 brand logos, for KI Sports hackathon
 
+
+**DISCLAIMER: I/we DO NOT claim any rights over the video obtained by running inference on an OFFICIAL BundeSliga Football Match. We simply use it for Hackathon / Learning purposes and nothing else. Please contact adityaladwa11@gmail.com in case of any issue.**
+
 # Output inference
 
 <video controls width="640">
